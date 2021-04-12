@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\Controllers",
+    "\\Data",
+    "\\Models"
+  ],
+  "SelectedNode": "\\Data\\IBaseRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
